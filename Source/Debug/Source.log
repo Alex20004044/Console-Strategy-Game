@@ -1,0 +1,36 @@
+﻿  Source.cpp
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(64): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(135): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(147): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(164): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(174): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(184): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(251): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(313): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(451): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(503): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(517): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(668): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1127): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1137): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1149): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1167): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1174): warning C4018: '<' : signed/unsigned mismatch
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1212): warning C4305: 'argument' : truncation from 'double' to 'float'
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1238): warning C4305: 'argument' : truncation from 'double' to 'float'
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.h(117): warning C4018: '<' : signed/unsigned mismatch
+          d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(226) : see reference to function template instantiation 'CompEngine::Component *CompEngine::GameObject::FindComponentOfType<CompEngine::Unit>(T)' being compiled
+          with
+          [
+              T=CompEngine::Unit
+          ]
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.h(178): warning C4018: '<' : signed/unsigned mismatch
+          d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1041) : see reference to function template instantiation 'CompEngine::Component *CompEngine::EngineCore::FindObjectOfType<CompEngine::PlayerController>(T)' being compiled
+          with
+          [
+              T=CompEngine::PlayerController
+          ]
+d:\users\б18-513\гречин а.а\thegame\compengine\compengine.cpp(1104): warning C4715: 'CompEngine::UIManager::DefineEnteredCommand' : not all control paths return a value
+  Source.vcxproj -> D:\USERS\Б18-513\Гречин А.А\TheGame\Debug\Source.exe
